@@ -1,13 +1,13 @@
 ! Title: Antymateria - TrashOut DNS for AdGuard Home
 ! Description: Casualowa lista DNS bezlitośnie wywożąca internetowy syf, czat-ruletki i toksyczne strony prosto na wysypisko.
-! Version: 1.1.0
+! Version: 1.1.5
 ! Last modified: 2026-06-30
 ! Homepage: https://github.com/AntymateriaDev/antymateria-trashout-dns
 ! Author: AntymateriaDev
 ! License: CC BY-NC-SA 4.0
 
 ! ==============================================================================
-! SEKCJA 1: CZAT-RULETKI, WIDEO-CZATY I LOSOWE KAMERKI (AKTYWNE)
+! SEKCJA 1A: CZAT-RULETKI I LOSOWE WIDEO-CZATY
 ! ==============================================================================
 6obcy.pl
 6obcy.com
@@ -44,7 +44,6 @@ chatbazooka.com
 freecamchat.com
 camloo.com
 chathub.cam
-omega.app
 bazoocam.com
 hay.fun
 tumile.me
@@ -53,9 +52,7 @@ azar.app
 holla.world
 y99.in
 rumbletalk.com
-! --- POTĘŻNA DOSTAWA V1.1.0 ---
-OmeChat.com
-wpal.me
+omechat.com
 chatalternative.com
 fruzo.com
 faceflow.com
@@ -65,30 +62,46 @@ camfrog.com
 dirtyroulette.com
 chatrad.com
 sweetmeet.me
-ichat.pl
-polskiczat.pl
-czateria.pl
+camround.com
+camround.net
+camzey.com
+cammatch.com
+randomskip.com
+mirami.chat
 
 ! ==============================================================================
-! SEKCJA 2: POLSKIE I MIĘDZYNARODOWE PORTALE RANDKOWE / FLIRTY (AKTYWNE)
+! SEKCJA 1B: KLASYCZNE CZATY TEKSTOWE
 ! ==============================================================================
+czateria.pl
 czateria.interia.pl
 poczatuj.pl
 chat.wp.pl
 chat.interia.pl
 chati.pl
+ichat.pl
+polskiczat.pl
+allotalk.com
+yesichat.com
+spinchat.com
+wireclub.com
+chatib.us
+chatib.net
+chatblink.com
+chat-avenue.com
+chatogo.com
+
+! ==============================================================================
+! SEKCJA 2A: PORTALE RANDKOWE I APLIKACJE MATRYMONIALNE
+! ==============================================================================
 fotka.pl
 sympatia.onet.pl
 badoo.com
-bzykanie24.pl
 fotoflirt.pl
-erodate.pl
 single.pl
 tinder.com
 okcupid.com
 bumble.com
 hi5.com
-cooMeet.com
 pof.com
 edarling.pl
 akademiaserca.pl
@@ -101,12 +114,43 @@ grindr.com
 zoosk.com
 match.com
 elitesingles.com
+lento.pl
+swatki.pl
+szukamzony.pl
+randki.pl
+lovoo.com
+meetic.com
+meetic.pl
+dating.com
+dating.pl
+jaumo.com
+once.com
+coffee-meets-bagel.com
+skout.com
+meetme.com
+tagged.com
+waplog.com
+mingle2.com
+ourtime.com
+eharmony.com
+
+! ==============================================================================
+! SEKCJA 2B: FLIRT / SEX RANDKI / SPAM I HOOKUP
+! ==============================================================================
+bzykanie24.pl
+erodate.pl
+mamboflirt.pl
+adultfriendfinder.com
+benaughty.com
+naughtydate.com
+quickflirt.com
+localsgowild.com
+fuckbook.com
+xnxx.date
+sexfinder.com
+secretbenefits.com
+seeking.com
 ashleymadison.com
 flirt.com
 be2.pl
-lento.pl
 najdzme.pl
-swatki.pl
-szukamzony.pl
-mamboflirt.pl
-randki.pl
